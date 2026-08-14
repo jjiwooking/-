@@ -1,3 +1,7 @@
+## Live Demo
+
+🌐 [Streamlit에서 실행하기](https://monthly-profit-variance-analysis-vnjfyz4adgrw4eqcbs5kyk.streamlit.app)
+
 # 월마감 손익 변동 원인분석 시스템
 
 ERP·Excel에서 추출한 월별 상세 데이터를 이용해 **영업이익이 왜 변했는지를 금액으로 분해하고, 세부 원인과 원본 데이터까지 추적하는 재무데이터 분석 프로젝트**입니다.
